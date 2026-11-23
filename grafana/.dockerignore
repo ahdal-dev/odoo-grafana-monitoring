@@ -1,0 +1,2 @@
+# Alloy configuration is used by the Compose stack, not by the Grafana image.
+alloy/
